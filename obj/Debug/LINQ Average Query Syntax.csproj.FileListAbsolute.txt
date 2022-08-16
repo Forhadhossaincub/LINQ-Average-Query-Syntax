@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\LINQ Average Query Syntax\LINQ Average Query Syntax\bin\Debug\LINQ Average Query Syntax.exe.config
+C:\Users\Administrator\Desktop\LINQ Average Query Syntax\LINQ Average Query Syntax\bin\Debug\LINQ Average Query Syntax.exe
+C:\Users\Administrator\Desktop\LINQ Average Query Syntax\LINQ Average Query Syntax\bin\Debug\LINQ Average Query Syntax.pdb
+C:\Users\Administrator\Desktop\LINQ Average Query Syntax\LINQ Average Query Syntax\obj\Debug\LINQ Average Query Syntax.exe
+C:\Users\Administrator\Desktop\LINQ Average Query Syntax\LINQ Average Query Syntax\obj\Debug\LINQ Average Query Syntax.pdb
